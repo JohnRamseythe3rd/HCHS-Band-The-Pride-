@@ -1,4 +1,4 @@
-# HCHS-Band-The-Pride-
+# HCHS Band The Pride
   For our project, we decided to create a website for our Hardin County High School Band. 
 
   Our school's primary colors are maroon, white, and gray. That is why we chose to use these colors in our website. Also, darker colors with light text causes less stress on the eyes and provides a calmer, more focused atmosphere. 
